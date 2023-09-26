@@ -66,6 +66,5 @@ int main() {
     for ( i = 0; i < N - 1; i++) {
         printf( " %d", num[ i ] ) ;
     }// end for loop
-
     return 0;
 }
